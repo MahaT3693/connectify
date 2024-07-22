@@ -47,6 +47,6 @@ To get a local copy up and running, follow these steps:
    npm start
 
 **Demo Video**
-[Download File](https://drive.google.com/uc?id=1rODQOHzvp0_LPuI9vX4g50aAdMy4FTKi&export=download)
 
-[OpenAI](https://www.openai.com)
+[https://drive.google.com/uc?id=1rODQOHzvp0_LPuI9vX4g50aAdMy4FTKi&export=download](https://drive.google.com/uc?id=1rODQOHzvp0_LPuI9vX4g50aAdMy4FTKi&export=download)
+
