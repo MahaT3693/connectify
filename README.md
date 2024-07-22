@@ -9,10 +9,10 @@ A social media application with features including user registration, user confi
 - User Confirmation
 - Login
 - Home Page
-- Chats
 - Notifications
 - Search
-- Stories
+- update user profile
+- follow others
 
 ## Tech Stack
 
@@ -33,5 +33,5 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone 
+   git clone https://github.com/MahaT3693/connectify.git
 
