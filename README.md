@@ -35,3 +35,14 @@ To get a local copy up and running, follow these steps:
    ```sh
    git clone https://github.com/MahaT3693/connectify.git
 
+2. Remove the **MERN Project** folder from the **connectify** folder and navigate into the connectify directory:
+
+    ```sh
+   cd connectify
+
+3. then run the following:
+
+   ```sh
+   npm run build
+   npm start
+
