@@ -1,2 +1,2 @@
 # connectify
-# git clone the repo
+ git clone the repo
